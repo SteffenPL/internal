@@ -1,7 +1,7 @@
 {
   "source_repository": "SteffenPL/EHT",
-  "source_commit": "d72ae0ad7cc77fc386cdf0e9105f6c6688e1a1b9",
+  "source_commit": "143a90d60593080575055f6fbce5a07b59527ff3",
   "target": "v2.8-comp",
-  "built_at": "2026-11-12T08:52:27.988674+00:00",
+  "built_at": "2026-11-12T09:20:02.114048+00:00",
   "comparison_path": "#/comparison"
 }
